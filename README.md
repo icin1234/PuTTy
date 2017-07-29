@@ -47,6 +47,12 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/puttygen.PNG?raw=true)
 
-2)Klikamy na przycisk "Generate", a następnie wykonujemy losowe ruchy myszką w obszarze zaznaczonym na niebiesko.
+2)Klikamy na przycisk "Generate", a następnie wykonujemy losowe ruchy myszką w obszarze zaznaczonym na niebiesko. Umożliwia to  zebranie losowych danych na podstawie których zostaną wygenerowane klucze.
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/gen.PNG?raw=true)
+
+3) W kolejnym kroku podajemy frazę zabezpieczającą dla wygenerowanych kluczy. Następnie zapisujemy klucz publiczny i prywatny.
+
+![alt](https://github.com/icin1234/PuTTy/blob/master/key.PNG?raw=true)
+
+4)Wygenerowany klucz publiczny kopiujemy, a następnie dodajemy go do panelu zarządzającego jako klucz SSH.
