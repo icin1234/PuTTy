@@ -13,5 +13,9 @@ Użytkownicy systemu Widnows w celu zalogowania się na serwer, potrzebują klie
 
 ### 1) Pobranie aplikacji PuTTy
 
- W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/) i klikamy na odnośnik w odnośnik "You can downlaod PuTTy here"
+- W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/). Następnie klikamy na odnośnik "You can download PuTTy here"
  	![alt](https://github.com/icin1234/PuTTy/blob/master/putty.PNG?raw=true)
+- Polecamy pobranie pełnej paczki instalacyjnej programu PuTTy. Zaleznie od posiadanej przez nas wersji systemu Windows wybieramy instalator 32-bit lub 64-bit.
+
+> *Jeśli nie jesteśmy pewni jaką posiadamy wersję systemu Windows, twórcy aplikacji PuTTy zalecają zainstalowanie wersji 32-bit.
+> [FAQ-PuTTy Wersja](https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html#faq-32bit-64bit)*
