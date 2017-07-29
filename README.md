@@ -40,3 +40,5 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 4)Klikamy finish i gotowe. Program PuTTy został poprawnie zainstalowany.
 ![alt](https://github.com/icin1234/PuTTy/blob/master/finish.PNG?raw=true)
 
+
+### Konfiguracja i generowanie klucza SSH.
