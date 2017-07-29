@@ -8,7 +8,6 @@
   - Instalacja PuTTy
   - Generowanie klucza SSH
   
-  https://github.com/icin1234/PuTTy/blob/master/putty2.PNG?raw=true
 
 # Wstęp:
 Użytkownicy systemu Widnows w celu zalogowania się na serwer, potrzebują klienta SSH. Klient SSH umożliwia wygenerowanie klucza, który pozawala nam na bezpieczne i wygodne połączenie z serwerem. Zalecamy używanie darmowej aplikacji PuTTy.
