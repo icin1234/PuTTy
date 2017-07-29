@@ -1,4 +1,4 @@
-# Pobieranie programu PuTTy oraz konfiguracja
+# Pobieranie programu PuTTy, konfiguracja klienta SSH oraz generowanie kluczy.
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
