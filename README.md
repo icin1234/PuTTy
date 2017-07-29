@@ -1,7 +1,5 @@
 # Pobieranie programu PuTTy, konfiguracja klienta SSH oraz generowanie kluczy.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 ### Spis treści:
 
   - Pobieranie PuTTy
@@ -26,3 +24,5 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 > *Jeśli nie jesteśmy pewni jaką posiadamy wersję systemu Windows, twórcy aplikacji PuTTy zalecają zainstalowanie wersji 32-bit.
 > [FAQ-PuTTy Wersja](https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html#faq-32bit-64bit)*
 
+3)Uruchamiamy instalator programu PuTTy i klikamy next.
+![alt](https://github.com/icin1234/PuTTy/blob/master/next1.PNG?raw=true)
