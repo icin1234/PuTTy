@@ -43,7 +43,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ### Konfiguracja i generowanie klucza SSH.
 
-1) Aby wygenerować własny klucz SSH uruchamiamy program o nazwie "puttygen". Aplikacja ta znajduje sie w ścieżce docelowej, która podaliśmy podczas instalacji programu. W moim przypadku jest to C:\Program Files\PuTTy.
+1) Aby wygenerować własny klucz SSH uruchamiamy program o nazwie "puttygen". Aplikacja ta znajduje się w ścieżce docelowej, którą podaliśmy podczas instalacji programu. W moim przypadku jest to: *C:\Program Files\PuTTy*
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/puttygen.PNG?raw=true)
 
