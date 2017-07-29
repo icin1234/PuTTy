@@ -47,4 +47,6 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/puttygen.PNG?raw=true)
 
+2)Klikamy na przycisk "Generate", a następnie wykonujemy losowe ruchy myszką w obszarze zaznaczonym na niebiesko.
 
+![alt](https://github.com/icin1234/PuTTy/blob/master/gen.PNG?raw=true)
