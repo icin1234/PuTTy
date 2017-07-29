@@ -12,14 +12,14 @@
 # Wstęp:
 Użytkownicy systemu Widnows w celu zalogowania się na serwer, potrzebują klienta SSH. Klient SSH umożliwia wygenerowanie klucza, który pozawala nam na bezpieczne i wygodne połączenie z serwerem. Zalecamy używanie darmowej aplikacji PuTTy.
 
-### 1) Pobranie aplikacji PuTTy
+### Pobieranie aplikacji PuTTy
 
-W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/). Następnie klikamy na odnośnik "You can download PuTTy here"
+1) W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/). Następnie klikamy na odnośnik "You can download PuTTy here"
  
  ![alt](https://github.com/icin1234/PuTTy/blob/master/putty3.PNG?raw=true)
 
-Polecamy pobranie pełnej paczki instalacyjnej programu PuTTy. 
-Zaleznie od posiadanej przez nas wersji systemu Windows wybieramy instalator 32-bit lub 64-bit.
+2) Zalecamy pobranie pełnej paczki instalacyjnej programu PuTTy. 
+Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy instalator 32-bit lub 64-bit.
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/putyy4.PNG?raw=true)
 
