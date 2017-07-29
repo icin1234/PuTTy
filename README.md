@@ -18,7 +18,8 @@ W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.put
  
  ![alt](https://github.com/icin1234/PuTTy/blob/master/putty3.PNG?raw=true)
 
-Polecamy pobranie pełnej paczki instalacyjnej programu PuTTy. Zaleznie od posiadanej przez nas wersji systemu Windows wybieramy instalator 32-bit lub 64-bit.
+Polecamy pobranie pełnej paczki instalacyjnej programu PuTTy. 
+Zaleznie od posiadanej przez nas wersji systemu Windows wybieramy instalator 32-bit lub 64-bit.
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/putyy4.PNG?raw=true)
 
