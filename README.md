@@ -88,4 +88,4 @@ Po lewej stronie aplikacji **rozwijamy zakładkę SSH...**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sshmiejsce.PNG?raw=true)
 
-### Gratulacje! Właśnie wygenerowałeś własne klucze SSH. Teraz czas na założenie serwera i pierwsze logowanie za pomocą aplikacji PuTTy!
+### Gratulacje! Właśnie wygenerowałeś własne klucze SSH. Teraz czas na założenie serwera i pierwsze logowanie za pomocą aplikacji PuTTy! :+1: :sheep:
