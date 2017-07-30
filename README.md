@@ -63,3 +63,11 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login). W prawym górnym rogu klikamy na ikonę ustawienia, a następnie otwieramy zakładkę "ssh keys"
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sshdod.PNG?raw=true)
+
+6)Klikamy na przycisk "Utwórz nowy"...
+
+![alt](https://github.com/icin1234/PuTTy/blob/master/addkey2.PNG?raw=true)
+
+7)Wpisujemy nazwę naszego klucza, wklejamy go w zaznaczone pole i klikamy "Add SSH Key"
+
+![alt](https://github.com/icin1234/PuTTy/blob/master/addkey3.PNG?raw=true)
