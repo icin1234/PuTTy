@@ -15,7 +15,7 @@ Użytkownicy systemu Windows w celu zalogowania się na serwer w prosty i bezpie
 # SSH w skrócie
 Aplikacja generuje są dwa klucze SSH: prywatny i publiczny. Klucz publiczny umieszcza się na dowolnym serwerze, który chcemy zabezpieczyć natomiast klucz prywatny wykorzystywany w aplikacji do połączenia SSH. Prawidłowe logowanie nastąpi, gdy klucz prywatny i publiczny będą zgodne.
 
-### Pobieranie aplikacji PuTTy
+# Pobieranie aplikacji PuTTy
 
 1) W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/). Dalej klikamy na odnośnik **"You can download PuTTy here"**
  
@@ -28,7 +28,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 > Jeśli nie jesteśmy pewni jaką posiadamy wersję systemu Windows, twórcy aplikacji PuTTy zalecają zainstalowanie wersji 32-bit. [FAQ-PuTTy Wersja](https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html#faq-32bit-64bit)
 
-### Instalacja aplikacji PuTTy
+# Instalacja aplikacji PuTTy
 1)Uruchamiamy instalator programu PuTTy i klikamy next.
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/next1.PNG?raw=true)
@@ -45,7 +45,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 ![alt](https://github.com/icin1234/PuTTy/blob/master/finish.PNG?raw=true)
 
 
-### Generowanie klucza SSH
+# Generowanie klucza SSH
 
 1) Aby wygenerować własny klucz SSH uruchamiamy program o nazwie **"puttygen"**. Aplikacja ta znajduje się w ścieżce docelowej, którą podaliśmy podczas instalacji programu. W moim przypadku jest to: *C:\Program Files\PuTTy*
 
@@ -63,7 +63,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/key2.PNG?raw=true)
 
-### Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
+# Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
 
 1)Nasz skopiowany klucz publiczny, dodajemy w panelu rootbox. 
 W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login), w prawym górnym rogu klikamy na ikonę ustawienia. Następnie otwieramy zakładkę **"ssh keys"**
