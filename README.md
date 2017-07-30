@@ -41,46 +41,35 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 ![alt](https://github.com/icin1234/PuTTy/blob/master/finish.PNG?raw=true)
 
 
-### Konfiguracja i generowanie klucza SSH.
+### Generowanie klucza SSH.
 
 1) Aby wygenerować własny klucz SSH uruchamiamy program o nazwie "puttygen". Aplikacja ta znajduje się w ścieżce docelowej, którą podaliśmy podczas instalacji programu. W moim przypadku jest to: *C:\Program Files\PuTTy*
 
-
 ![alt](https://github.com/icin1234/PuTTy/blob/master/puttygen.PNG?raw=true)
-
 
 2)Klikamy na przycisk "Generate", a następnie wykonujemy losowe ruchy myszką w obszarze zaznaczonym na niebiesko. Umożliwia to  zebranie losowych danych na podstawie których zostaną wygenerowane klucze.
 
-
 ![alt](https://github.com/icin1234/PuTTy/blob/master/gen.PNG?raw=true)
-
 
 3) W kolejnym kroku podajemy frazę zabezpieczającą dla wygenerowanych kluczy. Następnie zapisujemy klucz publiczny i prywatny.
 
-
 ![alt](https://github.com/icin1234/PuTTy/blob/master/key.PNG?raw=true)
-
 
 4)Wygenerowany klucz publiczny kopiujemy.
 
-
 ![alt](https://github.com/icin1234/PuTTy/blob/master/key2.PNG?raw=true)
 
+### Dodawanie klucza SSH.
 
-5)Nasz skopiowany klucz, dodajemy w panelu rootbox. 
+1)Nasz skopiowany klucz, dodajemy w panelu rootbox. 
 W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login). W prawym górnym rogu klikamy na ikonę ustawienia, a następnie otwieramy zakładkę "ssh keys"
-
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sshdod.PNG?raw=true)
 
-
-6)Klikamy na przycisk "Utwórz nowy"...
-
+2)Klikamy na przycisk "Utwórz nowy"...
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/addkey2.PNG?raw=true)
 
-
-7)Wpisujemy nazwę naszego klucza, wklejamy go w zaznaczone pole i klikamy "Add SSH Key"
-
+3)Wpisujemy nazwę naszego klucza, wklejamy go w zaznaczone pole i klikamy "Add SSH Key"
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/addkey3.PNG?raw=true)
