@@ -13,7 +13,7 @@
 Użytkownicy systemu Windows w celu zalogowania się na serwer w prosty i bezpieczny sposób, potrzebują klienta SSH. Zalecamy używanie darmowej aplikacji PuTTy. Pozwala wygenerować nam własny klucz SSH a także umożliwia połączenie z naszym serwerem w szybki i chroniony sposób. 
 
 # SSH w skrócie
-Aplikacja generuje są dwa klucze SSH: prywatny i publiczny. Klucz publiczny umieszcza się na dowolnym serwerze, który chcemy zabezpieczyć natomiast klucz prywatny wykorzystywany w aplikacji do połączenia SSH. Prawidłowe logowanie nastąpi, gdy klucz prywatny i publiczny będą zgodne.
+Aplikacja generuje dwa klucze SSH: prywatny i publiczny. Klucz publiczny umieszcza się na dowolnym serwerze, który chcemy zabezpieczyć natomiast klucz prywatny wykorzystywany w aplikacji do połączenia SSH. Prawidłowe logowanie nastąpi, gdy klucz prywatny i publiczny będą zgodne.
 
 # Pobieranie aplikacji PuTTy
 
