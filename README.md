@@ -5,6 +5,7 @@
   - Pobieranie PuTTy
   - Instalacja PuTTy
   - Generowanie klucza SSH
+  - Konfiguracja programu PuTTy
   
 
 # Wstęp:
@@ -12,7 +13,7 @@ Użytkownicy systemu Widnows w celu zalogowania się na serwer, potrzebują klie
 
 ### Pobieranie aplikacji PuTTy
 
-1) W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/). Następnie klikamy na odnośnik "You can download PuTTy here"
+1) W celu pobrania klienta PuTTy otwieramy stronę: **[www.putty.org ]**(http://www.putty.org/). Następnie klikamy na odnośnik **"You can download PuTTy here"**
  
  ![alt](https://github.com/icin1234/PuTTy/blob/master/putty3.PNG?raw=true)
 
@@ -33,21 +34,21 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sciezka.PNG?raw=true)
 
-3)W tym kroku, możemy dodać skrót na pulpicie. Następnie klikamy install.
+3)W tym kroku, możemy dodać skrót na pulpicie. Następnie klikamy "install".
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/install.PNG?raw=true)
 
-4)Klikamy finish i gotowe. Program PuTTy został poprawnie zainstalowany.
+4)Klikamy "finish" i gotowe program PuTTy został poprawnie zainstalowany.
 ![alt](https://github.com/icin1234/PuTTy/blob/master/finish.PNG?raw=true)
 
 
 ### Generowanie klucza SSH.
 
-1) Aby wygenerować własny klucz SSH uruchamiamy program o nazwie "puttygen". Aplikacja ta znajduje się w ścieżce docelowej, którą podaliśmy podczas instalacji programu. W moim przypadku jest to: *C:\Program Files\PuTTy*
+1) Aby wygenerować własny klucz SSH uruchamiamy program o nazwie **"puttygen"**. Aplikacja ta znajduje się w ścieżce docelowej, którą podaliśmy podczas instalacji programu. W moim przypadku jest to: *C:\Program Files\PuTTy*
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/puttygen.PNG?raw=true)
 
-2)Klikamy na przycisk "Generate", a następnie wykonujemy losowe ruchy myszką w obszarze zaznaczonym na niebiesko. Umożliwia to  zebranie losowych danych na podstawie których zostaną wygenerowane klucze.
+2)Klikamy na przycisk **"Generate"**, a następnie wykonujemy losowe ruchy myszką w obszarze zaznaczonym na niebiesko. Umożliwia to  zebranie losowych danych na podstawie których zostaną wygenerowane klucze.
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/gen.PNG?raw=true)
 
@@ -62,26 +63,26 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 ### Dodawanie klucza SSH.
 
 1)Nasz skopiowany klucz, dodajemy w panelu rootbox. 
-W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login). W prawym górnym rogu klikamy na ikonę ustawienia, a następnie otwieramy zakładkę "ssh keys"
+W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login). W prawym górnym rogu klikamy na ikonę ustawienia, a następnie otwieramy zakładkę **"ssh keys"**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sshdod.PNG?raw=true)
 
-2)Klikamy na przycisk "Utwórz nowy"...
+2)Klikamy na przycisk **"Utwórz nowy"**...
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/addkey2.PNG?raw=true)
 
-3)Wpisujemy nazwę naszego klucza, wklejamy go w zaznaczone pole i klikamy "Add SSH Key"
+3)Wpisujemy nazwę naszego klucza, wklejamy go w zaznaczone pole i klikamy **"Add SSH Key"**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/addkey3.PNG?raw=true)
 
-4)Klucz prywatny dodajemy w ustawieniach autoryzacji klienta SSH. Aby to  wykonać uruchamiamy aplikacje PuTTy, aplikacja znajduje sie w tym samym folderze co puttygen.exe, a więc w moim przypadku jest to: *C:\Program Files\PuTTy*.
-Po lewej stronie aplikacji rozwijamy zakładkę SSH...
+4)Klucz prywatny dodajemy w ustawieniach autoryzacji klienta SSH. Aby to  wykonać **uruchamiamy aplikacje PuTTy**, aplikacja znajduje sie w folderze wskazanym przez nas podczas instalacji, a więc w moim przypadku jest to: *C:\Program Files\PuTTy*.
+Po lewej stronie aplikacji **rozwijamy zakładkę SSH...**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/putty1.PNG?raw=true)
 
-5)Wybieramy opcję Auth, a w dalszej kolejności klikamy na przycisk "Browse..."
+5)Wybieramy opcję **Auth**, a w dalszej kolejności klikamy na przycisk "**Browse...**"
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/putty2_1.PNG?raw=true)
 
-6)Wskazujemy miejsce zapisania naszego klucza prywatnego, który zapisywaliśmy w punkcie 3 generowania klucza SSH.
+6)Wskazujemy miejsce zapisania naszego klucza prywatnego, którego zapisaliśmy w punkcie 3 roździału:"Generowanie klucza SSH".
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sshmiejsce.PNG?raw=true)
