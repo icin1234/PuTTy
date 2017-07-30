@@ -6,7 +6,7 @@
 - Pobieranie aplikacji PuTTy
 - Instalacja aplikacji PuTTy
 - Generowanie klucza SSH
-- Dodawanie klucza SSH do panelu oraz aplikacji
+- Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
 
 # Wstęp:
 Użytkownicy systemu Widnows w celu zalogowania się na serwer w prosty i bezpieczny sposób, potrzebują klienta SSH. Zalecamy używanie darmowej aplikacji PuTTy. Pozwala wygenerować nam własny klucz SSH a także umożliwia połączenie z naszym serwerem w szybki i chroniony sposób. 
@@ -59,7 +59,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/key2.PNG?raw=true)
 
-### Dodawanie klucza SSH do panelu oraz aplikacji
+### Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
 
 1)Nasz skopiowany klucz publiczny, dodajemy w panelu rootbox. 
 W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login), w prawym górnym rogu klikamy na ikonę ustawienia. Następnie otwieramy zakładkę **"ssh keys"**
