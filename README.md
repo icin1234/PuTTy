@@ -55,4 +55,11 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/key.PNG?raw=true)
 
-4)Wygenerowany klucz publiczny kopiujemy, a następnie dodajemy go do panelu zarządzającego jako klucz SSH.
+4)Wygenerowany klucz publiczny kopiujemy.
+
+![alt](https://github.com/icin1234/PuTTy/blob/master/key2.PNG?raw=true)
+
+5)Nasz skopiowany klucz, dodajemy w panelu rootbox. 
+W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login). W prawym górnym rogu klikamy na ikonę ustawienia, a następnie otwieramy zakładkę "ssh keys"
+
+![alt](https://github.com/icin1234/PuTTy/blob/master/sshdod.PNG?raw=true)
