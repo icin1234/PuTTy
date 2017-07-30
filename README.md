@@ -73,3 +73,15 @@ W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login). W prawym 
 3)Wpisujemy nazwę naszego klucza, wklejamy go w zaznaczone pole i klikamy "Add SSH Key"
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/addkey3.PNG?raw=true)
+
+4)Klucz prywatny dodajemy w ustawieniach autoryzacji klienta SSH. Aby to  wykonać uruchamiamy aplikacje PuTTy, aplikacja znajduje sie w tym samym folderze co puttygen.exe, a więc w moim przypadku jest to: *C:\Program Files\PuTTy*.
+Po lewej stronie aplikacji rozwijamy zakładkę SSH...
+
+![alt](https://github.com/icin1234/PuTTy/blob/master/putty1.PNG?raw=true)
+
+5)Wybieramy opcję Auth, a w dalszej kolejności klikamy na przycisk "Browse..."
+
+![alt](https://github.com/icin1234/PuTTy/blob/master/putty2_1.PNG?raw=true)
+
+6)Wskazujemy miejsce zapisania naszego klucza prywatnego, który zapisywaliśmy w punkcie 3 generowania klucza SSH.
+![alt](https://github.com/icin1234/PuTTy/blob/master/sshmiejsce.PNG?raw=true)
