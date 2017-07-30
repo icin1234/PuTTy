@@ -84,5 +84,9 @@ Po lewej stronie aplikacji **rozwijamy zakładkę SSH...**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/putty2_1.PNG?raw=true)
 
-6)Wskazujemy miejsce zapisania naszego klucza prywatnego, którego zapisaliśmy w punkcie 3 roździału:"Generowanie klucza SSH".
+6)Wskazujemy miejsce zapisania naszego klucza prywatnego, którego zapisaliśmy w punkcie 3 roździału:
+"Generowanie klucza SSH".
+
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sshmiejsce.PNG?raw=true)
+
+### Gratulacje! Właśnie wygenerowałeś własne klucze SSH. Teraz czas na założenie serwera, i pierwsze logowanie za pomocą aplikacji PuTTy!
