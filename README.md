@@ -9,7 +9,7 @@
 - Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
 
 # Wstęp:
-Użytkownicy systemu Widnows w celu zalogowania się na serwer w prosty i bezpieczny sposób, potrzebują klienta SSH. Zalecamy używanie darmowej aplikacji PuTTy. Pozwala wygenerować nam własny klucz SSH a także umożliwia połączenie z naszym serwerem w szybki i chroniony sposób. 
+Użytkownicy systemu Windows w celu zalogowania się na serwer w prosty i bezpieczny sposób, potrzebują klienta SSH. Zalecamy używanie darmowej aplikacji PuTTy. Pozwala wygenerować nam własny klucz SSH a także umożliwia połączenie z naszym serwerem w szybki i chroniony sposób. Aplikacja PuTTy generuje  dwa klucze: prywatny i publiczny. klucz publiczny umieszcza się na dowolnym serwerze, który chcemy zabezpieczyć natomiast klucz prywatny wykorzystywany będzie w kliencie jaki wykorzystujemy do połączenia SSH. Prawidłowe uwierzytelnienie nastąpi, gdy klucz prywatny i publiczny będą zgodne.
 
 ### Pobieranie aplikacji PuTTy
 
