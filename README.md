@@ -2,20 +2,20 @@
 
 # Spis treści:
 
-- Wstęp
-- SSH w skrócie
-- [h1](#h1)Pobieranie aplikacji PuTTy 
-- Instalacja aplikacji PuTTy
-- Generowanie klucza SSH
-- Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
+- [Wstęp](#h1)
+- [SSH w skrócie](#h2)
+- [Pobieranie aplikacji PuTTy](#h3)
+- [Instalacja aplikacji PuTTy](#h4)
+- [Generowanie klucza SSH](#h5)
+- [Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy](#h6)
 
-# Wstęp:
+# <a name="h1"></a> Wstęp:
 Użytkownicy systemu Windows w celu zalogowania się na serwer w prosty i bezpieczny sposób, potrzebują klienta SSH. Zalecamy używanie darmowej aplikacji PuTTy. Pozwala wygenerować nam własny klucz SSH a także umożliwia połączenie z naszym serwerem w szybki i chroniony sposób. 
 
-# SSH w skrócie
+# <a name="h2"></a> SSH w skrócie
 Aplikacja generuje dwa klucze SSH: prywatny i publiczny. Klucz publiczny umieszcza się na dowolnym serwerze, który chcemy zabezpieczyć natomiast klucz prywatny wykorzystywany w aplikacji do połączenia SSH. Prawidłowe logowanie nastąpi, gdy klucz prywatny i publiczny będą zgodne.
 
-# <a name="h1"></a>Pobieranie aplikacji PuTTy
+# <a name="h3"></a> Pobieranie aplikacji PuTTy
 
 1) W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/). Dalej klikamy na odnośnik **"You can download PuTTy here"**
  
@@ -28,7 +28,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 > Jeśli nie jesteśmy pewni jaką posiadamy wersję systemu Windows, twórcy aplikacji PuTTy zalecają zainstalowanie wersji 32-bit. [FAQ-PuTTy Wersja](https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html#faq-32bit-64bit)
 
-# Instalacja aplikacji PuTTy
+# <a name="h4"></a> Instalacja aplikacji PuTTy
 1)Uruchamiamy instalator programu PuTTy i klikamy **"next"**.
 ![alt](https://github.com/icin1234/PuTTy/blob/master/next1.PNG?raw=true)
 
@@ -42,7 +42,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 ![alt](https://github.com/icin1234/PuTTy/blob/master/finish.PNG?raw=true)
 
 
-# Generowanie klucza SSH
+# <a name="h5"></a> Generowanie klucza SSH
 
 1) Aby wygenerować własny klucz SSH uruchamiamy program o nazwie **"puttygen"**. Aplikacja ta znajduje się w ścieżce docelowej, którą podaliśmy podczas instalacji programu. W moim przypadku jest to: *C:\Program Files\PuTTy*
 
@@ -60,7 +60,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/key2.PNG?raw=true)
 
-# Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
+# <a name="h6"></a> Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
 
 1)Nasz skopiowany klucz publiczny, dodajemy w panelu rootbox. 
 W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login). W prawym górnym rogu klikamy na ikonę ustawienia, a następnie otwieramy zakładkę **"ssh keys"**
