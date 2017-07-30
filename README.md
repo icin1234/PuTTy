@@ -29,19 +29,16 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 > Jeśli nie jesteśmy pewni jaką posiadamy wersję systemu Windows, twórcy aplikacji PuTTy zalecają zainstalowanie wersji 32-bit. [FAQ-PuTTy Wersja](https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html#faq-32bit-64bit)
 
 # Instalacja aplikacji PuTTy
-1)Uruchamiamy instalator programu PuTTy i klikamy next.
-
+1)Uruchamiamy instalator programu PuTTy i klikamy **"next"**.
 ![alt](https://github.com/icin1234/PuTTy/blob/master/next1.PNG?raw=true)
 
 2)Wskazujemy miejsce, w którym chcemy zainstalować program.
-
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sciezka.PNG?raw=true)
 
-3)W tym kroku, możemy dodać skrót na pulpicie. Następnie klikamy "install".
-
+3)W tym kroku możemy dodać skrót na pulpicie, następnie klikamy **"install"**.
 ![alt](https://github.com/icin1234/PuTTy/blob/master/install.PNG?raw=true)
 
-4)Klikamy "finish" i gotowe program PuTTy został poprawnie zainstalowany.
+4)Klikamy **"finish"** i gotowe program PuTTy został poprawnie zainstalowany.
 ![alt](https://github.com/icin1234/PuTTy/blob/master/finish.PNG?raw=true)
 
 
