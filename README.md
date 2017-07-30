@@ -13,7 +13,7 @@ Użytkownicy systemu Widnows w celu zalogowania się na serwer, potrzebują klie
 
 ### Pobieranie aplikacji PuTTy
 
-1) W celu pobrania klienta PuTTy otwieramy stronę: **[www.putty.org ]**(http://www.putty.org/). Następnie klikamy na odnośnik **"You can download PuTTy here"**
+1) W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/). Następnie klikamy na odnośnik **"You can download PuTTy here"**
  
  ![alt](https://github.com/icin1234/PuTTy/blob/master/putty3.PNG?raw=true)
 
@@ -22,8 +22,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/putyy4.PNG?raw=true)
 
-> *Jeśli nie jesteśmy pewni jaką posiadamy wersję systemu Windows, twórcy aplikacji PuTTy zalecają zainstalowanie wersji 32-bit.
-> [FAQ-PuTTy Wersja](https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html#faq-32bit-64bit)*
+> Jeśli nie jesteśmy pewni jaką posiadamy wersję systemu Windows, twórcy aplikacji PuTTy zalecają zainstalowanie wersji 32-bit. [FAQ-PuTTy Wersja](https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html#faq-32bit-64bit)
 
 ### Instalacja aplikacji PuTTy
 1)Uruchamiamy instalator programu PuTTy i klikamy next.
@@ -84,9 +83,8 @@ Po lewej stronie aplikacji **rozwijamy zakładkę SSH...**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/putty2_1.PNG?raw=true)
 
-6)Wskazujemy miejsce zapisania naszego klucza prywatnego, którego zapisaliśmy w punkcie 3 roździału:
-"Generowanie klucza SSH".
+6)Wskazujemy miejsce zapisania naszego klucza prywatnego. Klucz prywatny zapisywaliśmy w punkcie 3 roździału **"Generowanie klucza SSH"**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sshmiejsce.PNG?raw=true)
 
-### Gratulacje! Właśnie wygenerowałeś własne klucze SSH. Teraz czas na założenie serwera, i pierwsze logowanie za pomocą aplikacji PuTTy!
+### Gratulacje! Właśnie wygenerowałeś własne klucze SSH. Teraz czas na założenie serwera i pierwsze logowanie za pomocą aplikacji PuTTy!
