@@ -3,8 +3,8 @@
 # Spis treści:
 
 - Wstęp
-- Pobieranie aplikacji PuTTy
 - SSH w skrócie
+- Pobieranie aplikacji PuTTy 
 - Instalacja aplikacji PuTTy
 - Generowanie klucza SSH
 - Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
