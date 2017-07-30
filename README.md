@@ -63,7 +63,7 @@ Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy i
 # Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy
 
 1)Nasz skopiowany klucz publiczny, dodajemy w panelu rootbox. 
-W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login), w prawym górnym rogu klikamy na ikonę ustawienia. Następnie otwieramy zakładkę **"ssh keys"**
+W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login). W prawym górnym rogu klikamy na ikonę ustawienia, a następnie otwieramy zakładkę **"ssh keys"**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/sshdod.PNG?raw=true)
 
@@ -71,7 +71,7 @@ W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login), w prawym 
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/addkey21.PNG?raw=true)
 
-3)Wpisujemy nazwę naszego klucza, wklejamy go w zaznaczone pole i klikamy **"Add SSH Key"**
+3)Wpisujemy nazwę naszego klucza, dalej wklejamy go w zaznaczone pole i klikamy **"Add SSH Key"**
 
 ![alt](https://github.com/icin1234/PuTTy/blob/master/addkey3.PNG?raw=true)
 
