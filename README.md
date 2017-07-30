@@ -68,7 +68,7 @@ W tym celu logujemy się do [Panelu](https://panel.rootbox.com/login), w prawym 
 
 2)Klikamy na przycisk **"Utwórz nowy"**...
 
-![alt](https://github.com/icin1234/PuTTy/blob/master/addkey2.PNG?raw=true)
+![alt](https://github.com/icin1234/PuTTy/blob/master/addkey21.PNG?raw=true)
 
 3)Wpisujemy nazwę naszego klucza, wklejamy go w zaznaczone pole i klikamy **"Add SSH Key"**
 
