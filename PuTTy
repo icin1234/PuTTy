@@ -22,7 +22,7 @@ Aplikacja generuje dwa klucze SSH: prywatny i publiczny. Klucz publiczny umieszc
 2) Zalecamy pobranie pełnej paczki instalacyjnej programu PuTTy. 
 Następnie zależnie od posiadanej przez nas wersji systemu Windows, wybieramy instalator 32-bit lub 64-bit.
 
-![alt](http://imgur.com/a/X0AEG)
+![alt](http://i.imgur.com/eWVsyZT.gif)
 
 > Jeśli nie jesteśmy pewni jaką posiadamy wersję systemu Windows, twórcy aplikacji PuTTy zalecają zainstalowanie wersji 32-bit. [FAQ-PuTTy Wersja](https://www.chiark.greenend.org.uk/~sgtatham/putty/faq.html#faq-32bit-64bit)
 
