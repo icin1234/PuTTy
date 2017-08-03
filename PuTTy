@@ -2,20 +2,22 @@
 
 # Spis treści:
 
-- [Wstęp](#h1)
+- [Wstęp](#Wstęp)
 - [SSH w skrócie](#h2)
 - [Pobieranie aplikacji PuTTy](#h3)
 - [Instalacja aplikacji PuTTy](#h4)
 - [Generowanie klucza SSH](#h5)
 - [Dodawanie klucza SSH do panelu rootbox.com oraz aplikacji PuTTy](#h6)
 
-# <a name="h1"></a> Wstęp:
+[click on this link](#my-multi-word-header)
+
+## Wstęp
 Użytkownicy systemu Windows w celu zalogowania się na serwer w prosty i bezpieczny sposób, potrzebują klienta SSH. Zalecamy używanie darmowej aplikacji PuTTy. Pozwala wygenerować nam własny klucz SSH a także umożliwia połączenie z naszym serwerem w szybki i chroniony sposób. 
 
 # <a name="h2"></a> SSH w skrócie
 Aplikacja generuje dwa klucze SSH: prywatny i publiczny. Klucz publiczny umieszcza się na dowolnym serwerze, który chcemy zabezpieczyć natomiast klucz prywatny wykorzystywany w aplikacji do połączenia SSH. Prawidłowe logowanie nastąpi, gdy klucz prywatny i publiczny będą zgodne.
 
-# <a name="h3"></a> Pobieranie aplikacji PuTTy
+<a name="h3"></a> # Pobieranie aplikacji PuTTy
 
 1) W celu pobrania klienta PuTTy otwieramy stronę: [www.putty.org ](http://www.putty.org/). Dalej klikamy na odnośnik **"You can download PuTTy here"**
  
